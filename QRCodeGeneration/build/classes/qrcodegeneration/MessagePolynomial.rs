@@ -1,0 +1,1 @@
+qrgeneration.MessagePolynomial
